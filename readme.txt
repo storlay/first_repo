@@ -1,1 +1,1 @@
-Some info
+Info
