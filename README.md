@@ -2,6 +2,8 @@
 
 **BOLD TEXT**
 
+Text
+
 1. First task
 2. Second task
 
@@ -9,4 +11,3 @@
 - Second item
 
 `print('Hello, Git')`
-
